@@ -30,5 +30,4 @@ Same as token-research: institutional sell-side analyst voice.
 - Specific and data-backed
 - Acknowledge what the data can't tell you ("stablecoin supply did not expand to match — trading is recycling existing dollars, not new ones")
 - No hype, no retail newsletter language
-- The "What to Watch" section should feel like something a Messari or Allium analyst actually wrote
 
