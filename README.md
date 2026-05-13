@@ -2,7 +2,7 @@
 
 # Claude Research Skills
 
-Institutional-quality crypto research, generated in Claude. Two skills built on equity-style valuation frameworks — the same approach used by onchain research teams at firms like Allium.
+Institutional-quality crypto research built on equity-style valuation frameworks, generated in Claude. 
 
 ---
 
