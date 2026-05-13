@@ -12,7 +12,7 @@ Institutional-quality crypto research built on equity-style valuation frameworks
 
 Drop a token name, get a fully structured tear sheet or investment memo. Pulls live data from DeFiLlama, Token Terminal, and CoinGecko, runs a two-stage DCF, builds a comps table, generates scenario targets (bear / base / bull / probability-weighted), maps risks and catalysts. Rendered as a styled HTML artifact directly in Claude chat.
 
-**Trigger with:**
+**prompt examples:**
 
 "tear sheet on HYPE"
 "investment memo on SOL"
@@ -24,7 +24,7 @@ Drop a token name, get a fully structured tear sheet or investment memo. Pulls l
 
 Weekly onchain market overview across five signal categories: stablecoin supply, spot DEX volume, Hyperliquid perp volume, chain fees, and CEX flows. Includes a 1D / 7D / 30D timeframe toggle, four stacked bar charts by chain, and a What to Watch synthesis section.
 
-**Trigger with:**
+**Prompt examples**
 
 "crypto market pulse"
 "what's happening onchain this week?"
