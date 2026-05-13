@@ -32,20 +32,14 @@ Weekly onchain market overview across five signal categories: stablecoin supply,
 "give me a market update"
 
 
----
-
 ## Installation
 
-1. Go to [claude.ai](https://claude.ai) → Settings → Skills → **Add Skill**
-2. Paste the raw `SKILL.md` content from the folder for each skill
+1. Download the `.skill` file for whichever skill you want
+2. Go to [claude.ai](https://claude.ai) → Settings → Skills
+3. Click **Add Skill** → upload the `.skill` file
+4. Start a new chat and use one of the trigger prompts above
 
 > Requires Claude Pro, Max, Team, or Enterprise.
-
----
-
-## Design
-
-Both skills render output in the same visual system: warm off-white background, DM Serif Display for headline numbers, DM Mono for data, forest green and muted burgundy for signal. Looks like something Messari or Allium would publish.
 
 ---
 
@@ -56,6 +50,7 @@ No API keys required. Skills pull live data via Claude's web search from:
 - [Token Terminal](https://tokenterminal.com) — protocol revenue, comps
 - [CoinGecko](https://coingecko.com) — price, supply, market cap
 - [Tokenomist](https://tokenomist.ai) — unlock schedules
+
 
 ---
 
